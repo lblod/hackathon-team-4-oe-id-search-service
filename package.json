@@ -8,7 +8,4 @@
   "author": "",
   "license": "MIT",
   "description": "",
-  "dependencies": {
-    "csv-rex": "^0.7.0"
-  }
 }

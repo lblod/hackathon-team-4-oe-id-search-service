@@ -1,0 +1,14 @@
+{
+  "name": "hackathon-team-4-eo-id-search",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "csv-rex": "^0.7.0"
+  }
+}
